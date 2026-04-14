@@ -1,5 +1,7 @@
 # My AZ Realty Team – Website Redesign (Mockup)
 
+![recording (1)](https://github.com/user-attachments/assets/5e861d09-359c-4eb7-acfd-eb99ecb8ad71)
+
 ## Overview
 This project is a modern, high-converting website mockup created for **My AZ Realty Team – West USA Realty**, a top-rated real estate agency based in Phoenix, Arizona.
 
