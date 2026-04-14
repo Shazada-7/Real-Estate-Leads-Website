@@ -17,7 +17,7 @@ The goal of this redesign is to demonstrate how a strong digital presence can:
 ## 🚀 Live Preview
 👉 [View Live Website](https://shazada-7.github.io/Real-Estate-Leads-Website/)
 
-*(Replace with your GitHub Pages / Netlify link)*
+
 
 ---
 
@@ -52,9 +52,9 @@ This website is built using proven conversion principles:
 ---
 
 ## 🛠️ Tech Stack
-- HTML5 / CSS3 / Tailwind *(or whatever you used)*
+- HTML5 / CSS3 / Tailwind 
 - Responsive & Attractive Design
-- Hosted via GitHub Pages *(or Netlify)*
+- Hosted via GitHub Pages 
 
 ---
 
